@@ -1,0 +1,19 @@
+#style{
+        width: 300px;
+        height:300px ;
+}
+#speech{
+    width: 600px;
+    height: 150px;;
+}
+#kitchen{
+    padding: 10px;
+    background-color: rgba(193, 127, 255, 0.78);
+    font-family: "Tahoma";
+    width:100px
+    
+}
+.cacy{
+    background-color: aquamarine;
+    font-family: 'Franklin Gothic Medium';
+}

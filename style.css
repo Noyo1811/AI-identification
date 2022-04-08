@@ -1,0 +1,26 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+#ni{
+    width: 300px;
+    height:300px ;
+}
+#in{
+width: 400px;
+height: 100px;
+}
+#fn{
+ width:400px;
+ height:400px;  
+}
+
+
